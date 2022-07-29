@@ -1,0 +1,2 @@
+# JellyTheme
+Personal Jellyfin Theme
